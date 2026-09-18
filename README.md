@@ -1,4 +1,4 @@
-# jma-skill
+# adhoc-skills
 
 気象庁の天気予報を取得する。
 
@@ -9,13 +9,13 @@
 ### gh skill
 
 ```bash
-gh skill install high-u/jma-skill jma-forecast
+gh skill install high-u/adhoc-skills jma-forecast
 ```
 
 ### npx skills
 
 ```bash
-npx skills add high-u/jma-skill
+npx skills add high-u/adhoc-skills
 ```
 
 ## 利用している API
