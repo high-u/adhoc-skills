@@ -17,5 +17,5 @@ gh skill install high-u/adhoc-skills <スキル名>
 ### npx skills
 
 ```bash
-npx skills add high-u/adhoc-skills
+npx skills add high-u/adhoc-skills --skill <スキル名>
 ```
